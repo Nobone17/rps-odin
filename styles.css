@@ -1,0 +1,17 @@
+body {
+    display: flex;
+}
+
+.typ-class {
+    display: flex;
+    flex-basis: 100%;
+    margin: 8px;
+    padding: 5%;
+}
+
+#typ-id {
+    display: block;
+    background-color: aliceblue;
+    color: aquamarine;
+    font-size: 24px;
+}
